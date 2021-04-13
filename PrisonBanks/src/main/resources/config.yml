@@ -1,0 +1,10 @@
+# Should we check for plugin updates?
+update-notify: true
+
+# Enable per player enderchest in piggy banks?
+enderchest-enabled: true
+
+# Item dropped when player withdraw money from piggy bank
+drop-item: gold_ingot
+
+File-Version-Do-Not-Edit: 2
